@@ -1,0 +1,22 @@
+[
+  {
+    "departmentCode": "DEP001",
+    "departmentName": "IT",
+    "departmentAddress": "First Floor"
+  },
+  {
+    "departmentCode": "DEP002",
+    "departmentName": "HR",
+    "departmentAddress": "Second Floor"
+  },
+  {
+    "departmentCode": "DEP003",
+    "departmentName": "Finance",
+    "departmentAddress": "Third Floor"
+  },
+  {
+    "departmentCode": "DEP004",
+    "departmentName": "Admin",
+    "departmentAddress": "Forth Floor"
+  }
+]

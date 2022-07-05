@@ -1,0 +1,20 @@
+[
+  {
+    "firstname": "Pawan",
+    "lastname": "Kumar",
+    "email": "pawan.mail.id@gmail.com",
+    "departmentId": "1"
+  },
+  {
+    "firstname": "Gargee",
+    "lastname": "Rai",
+    "email": "gargeerai1993@gmail.com",
+    "departmentId": "2"
+  },
+  {
+    "firstname": "Satish",
+    "lastname": "Pandey",
+    "email": "satish.pandey@gmail.com",
+    "departmentId": "3"
+  }
+]
